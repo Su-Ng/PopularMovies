@@ -9,7 +9,8 @@ public class YoutubeConfig {
 
 
     }
-    private static final String API_KEY="AIzaSyDtdBXtfMQdHJNNCwb6M-VgyVPFCsOuTu0";
+    //API key from The MoviesDB replaced by XXX
+    private static final String API_KEY="XXX";
 
     public static String getApiKey() {
         return API_KEY;
